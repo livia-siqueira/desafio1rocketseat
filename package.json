@@ -1,0 +1,15 @@
+{
+  "name": "desafio1rocketseat",
+  "version": "1.0.0",
+  "description": "Primeiro desafio rocketseat - Lista de tarefas",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Lívia Siqueira",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^17.0.2"
+  }
+}
