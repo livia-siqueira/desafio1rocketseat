@@ -5,7 +5,7 @@ import "./styles/global.scss"
 
 export function App(){
     return (
-        <div id="main">
+        <div>
             <Header/>
             <TaskList/>
         </div>
